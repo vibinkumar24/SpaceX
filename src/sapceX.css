@@ -1,0 +1,46 @@
+#fixed{
+    position:fixed;
+}
+
+#spacexImg {
+    width: 290px;
+    height:70px;
+}
+
+#bgSpaceX {
+    width: 100%;
+    height: 680px;
+    background-image: url(./bgspacex1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.under{
+    text-decoration: none;
+}
+.under:hover{
+    text-decoration: underline;
+    transform: translateX(0.5)
+}
+
+#bgSpaceX1 {
+    width: 100%;
+    height: 680px;
+    background-image: url(./bgspacex7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    float: right;
+    top: 200px;
+    right: 30px;
+}
+
+#bgSpaceX2 {
+    width: 100%;
+    height: 680px;
+    background-image: url(./bgspacex3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
